@@ -1,6 +1,6 @@
 # myaichatbox
 
-A new Flutter project.
+A new flutterChatBox project.
 
 ## Getting Started
 
